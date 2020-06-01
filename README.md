@@ -1,5 +1,5 @@
 # EE310-Calculator
-Simple tool to help solve second order circuits.
+Simple tool to help solve second order circuits. Generally for my personal use.
 
 Current Features:
 
