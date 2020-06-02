@@ -106,13 +106,13 @@ void quadratic(double *root1, double *root2, double a, double b, double c)
 
     else if (discriminant == 0) {
         //*root1 = *root2 = (-b + sqrt(discriminant)) / (2 * a);
-        cout << "Critically Damped" << endl;
+        cerr << "quadratic(): Critically Damped" << endl;
     }
 
     else {
         //double realPart = -b / (2 * a);
         //double imaginaryPart = sqrt(-discriminant) / (2 * a);
-        cout << "Underdamped" << endl;
+        cerr << "quadratic(): Underdamped" << endl;
     }
 
 }
