@@ -1,8 +1,9 @@
 # EE310-Calculator
-Simple tool to help solve second order circuits. Generally for my personal use.
+Tool made for personal use in Circuit Analysis 2 class.
 
 Current Features:
 
-RLC Circuit alpha, omega-0, and omega-d calculation
-
-RLC Circuit differential equation coefficient calculator
+        series/parallel rlc calculations
+        roots of a characteristic equation
+        impedance calculation
+        complex conversions
